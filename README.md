@@ -18,7 +18,7 @@ Here is a growing collection of resources and helpful commands to know when work
 
 ## External Resurces
 
-- [Markdoen Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [git Documentation](https://git-scm.com/docs)
-- [gitignore Documantation](https://git-scm.doc/gitignore)
+- [gitignore Documentation](https://git-scm.doc/gitignore)
 - [git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
